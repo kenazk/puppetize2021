@@ -1,0 +1,3 @@
+name: bolt_cloud_demo
+modulepath: ./modules
+inventoryfile: ./inventory.yaml
