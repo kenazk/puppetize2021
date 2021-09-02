@@ -1,3 +1,6 @@
-name: bolt_cloud_demo
-modulepath: ./modules
-inventoryfile: ./inventory.yaml
+name: puppetize
+modules:
+- name: puppetlabs/terraform
+- name: puppetlabs/ruby_task_helper
+- name: puppetlabs/ruby_plugin_helper
+- name: puppetlabs/puppet_agent
