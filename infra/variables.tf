@@ -20,7 +20,7 @@ variable "ec2_machine_type" {
 
 variable "ec2_ami" {
   description = "EC2 machine type"
-  default = "ami-02df9ea15c1778c9c"
+  default = "ami-0affd4508a5d2481b"
 }
 
 variable "ec2_disk_size" {
